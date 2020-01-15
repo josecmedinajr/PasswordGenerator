@@ -1,0 +1,34 @@
+body {
+    background-color: #a7a79a;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    color: #4f2e83;
+}
+
+h2 {
+    font-size: 50px;
+    color: #fecc47;     
+}
+
+.centerbutton {    
+    text-align: center;    
+}
+
+#input {
+    font-size: 20px;
+}
+
+#generate {
+    background-color: #ad0d14;
+    border-radius: 20px;    
+    font-size: 30px;
+    color: white;
+}
+
+
