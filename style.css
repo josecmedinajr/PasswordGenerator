@@ -66,4 +66,11 @@ textarea {
     color: #fecc47;
 }
 
+.row-tiger img {
+    width: 200px;
+    height: 200px;
+    margin: auto;    
+    display: block;
+}
+
 
